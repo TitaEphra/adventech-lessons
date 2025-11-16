@@ -4,13 +4,14 @@
   "description": "Lesona sekoly Sabata - 2025 Q1",
   "sources": {
     "adult": {
-      "label": "Lesona ho an'ny lehibehttps://sabbath-school.adventech.io/resources/mg/ss/2025-01",
+      "label": "Lesona ho an'ny lehibe",
+      "url": "https://sabbath-school.adventech.io/resources/mg/ss/2025-01",
       "quarter": "2025-01",
       "description": "Tafatafa amin'ny Finoana"
     },
     "youth": {
       "label": "Lesona ho an'ny tanora",
-      "url": "https://sabbath-school.adventech.io/resources/mg/ss/2025-01-cq",
+      "url": "https://sabbath-school.adventech.ao/resources/mg/ss/2025-01-cq",
       "quarter": "2025-01-cq",
       "description": "InQuest - Tanora zokiny"
     }
