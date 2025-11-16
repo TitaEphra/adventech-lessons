@@ -5,13 +5,13 @@
   "sources": {
     "adult": {
       "label": "Lesona ho an'ny lehibe",
-      "url": "https://sabbath-school.adventech.io/resources/mg/ss/2025-01",
+      "url": "https://sabbath-school.adventech.io/api/v2/mg/quarterlies/2025-01",
       "quarter": "2025-01",
       "description": "Tafatafa amin'ny Finoana"
     },
     "youth": {
       "label": "Lesona ho an'ny tanora",
-      "url": "https://sabbath-school.adventech.ao/resources/mg/ss/2025-01-cq",
+      "url": "https://sabbath-school.adventech.io/api/v2/mg/quarterlies/2025-01-cq",
       "quarter": "2025-01-cq",
       "description": "InQuest - Tanora zokiny"
     }
