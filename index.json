@@ -1,21 +1,15 @@
 {
   "version": 1,
-  "last_updated": "2025-01-15T10:00:00Z",
-  "description": "Lesona sekoly Sabata - 2025 Q1",
-  "sources": {
-    "adult": {
-      "label": "Lesona ho an'ny lehibe",
-      "url": "https://sabbath-school.adventech.io/api/v2/mg/quarterlies/2025-01",
-      "quarter": "2025-01",
-      "description": "Tafatafa amin'ny Finoana"
-    },
-    "youth": {
-      "label": "Lesona ho an'ny tanora",
-      "url": "https://sabbath-school.adventech.io/api/v2/mg/quarterlies/2025-01-cq",
-      "quarter": "2025-01-cq",
-      "description": "InQuest - Tanora zokiny"
+  "lastUpdate": "2025-01-16",
+  "lessons": [
+    {
+      "id": "adult_2025-Q1-L01",
+      "title": "Lesona faha-1: Titre ny lesona",
+      "type": "adult",
+      "label": "Lehibe",
+      "start_date": "2025-01-04",
+      "end_date": "2025-01-10",
+      "file": "lessons/adult_2025-Q1-L01.html"
     }
-  },
-  "update_interval_hours": 24,
-  "minimum_app_version": "1.0"
+  ]
 }
